@@ -10,3 +10,15 @@ assets/
 config/Mercurius.cfg
 launcher_log.txt
 launcher_profiles.json
+usernamecache.json
+usercache.json
+screenshots/
+backups/
+crafttweaker.log
+*.log
+crash-reports/
+journeymap/data
+journeymap/server
+New World/
+servers.dat
+options.txt
