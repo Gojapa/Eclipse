@@ -1,0 +1,12 @@
+saves/
+logs/
+psi_persistent/
+libraries/
+versions/
+local/
+resourcepacks/
+assets/
+/realms_persistence.json
+config/Mercurius.cfg
+launcher_log.txt
+launcher_profiles.json
