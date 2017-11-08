@@ -42,3 +42,7 @@ journeymap/
 mputils/
 
 config/splash\.properties
+
+config/InvTweaks\.cfg
+
+config/MouseTweaks\.cfg
