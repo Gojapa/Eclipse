@@ -56,7 +56,6 @@ command.forge.help: CMD
 command.forge.tps: CMD
 command.forge.track: CMD
 command.forge: CMD
-command.ftb.back: CMD
 command.ftb.backup.getsize: CMD
 command.ftb.backup.start: CMD
 command.ftb.backup.stop: CMD
@@ -69,8 +68,6 @@ command.ftb.chunks.unclaim_all: CMD
 command.ftb.chunks.unload: CMD
 command.ftb.chunks.unload_all: CMD
 command.ftb.chunks: CMD
-command.ftb.delhome: CMD
-command.ftb.delwarp: CMD
 command.ftb.edit_config.AppliedEnergistics2\AppliedEnergistics2: CMD
 command.ftb.edit_config.AppliedEnergistics2\CustomRecipes: CMD
 command.ftb.edit_config.AppliedEnergistics2\Facades: CMD
@@ -288,9 +285,6 @@ command.ftb.edit_config.xnet\xnet: CMD
 command.ftb.edit_config.xreliquary: CMD
 command.ftb.edit_config.xtones: CMD
 command.ftb.edit_config: CMD
-command.ftb.fly: CMD
-command.ftb.heal: CMD
-command.ftb.home: CMD
 command.ftb.inv.load: CMD
 command.ftb.inv.save: CMD
 command.ftb.inv.view: CMD
@@ -310,8 +304,6 @@ command.ftb.ranks.set: CMD
 command.ftb.ranks: CMD
 command.ftb.reload: CMD
 command.ftb.set_hour: CMD
-command.ftb.sethome: CMD
-command.ftb.setwarp: CMD
 command.ftb.spawn: CMD
 command.ftb.team.config: CMD
 command.ftb.team.create: CMD
@@ -326,7 +318,6 @@ command.ftb.team: CMD
 command.ftb.tpl: CMD
 command.ftb.trash_can: CMD
 command.ftb.view_crash: CMD
-command.ftb.warp: CMD
 command.ftb: CMD
 command.function: CMD
 command.gamemode: CMD
@@ -344,7 +335,9 @@ command.gethome: CMD
 command.give: CMD
 command.givesample: CMD
 command.givetemplate: CMD
+command.heal: CMD
 command.help: CMD
+command.home: CMD
 command.hunger: CMD
 command.ie: CMD
 command.integrateddynamics: CMD
