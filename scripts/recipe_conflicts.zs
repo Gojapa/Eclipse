@@ -1,10 +1,10 @@
 
 
-/*
-     (=======================)
-    == Tools/Armor Conflicts ==
-     (=======================)
-*/
+
+//     (=======================)
+//    == Tools/Armor Conflicts ==
+//     (=======================)
+//
     recipes.remove(<thermalfoundation:tool.sword_bronze:0>);
     recipes.remove(<thermalfoundation:tool.shovel_bronze:0>);
     recipes.remove(<thermalfoundation:tool.hoe_bronze:0>);
@@ -40,11 +40,10 @@
 
 
 
-/*
-    (=======================)
-        == Forestry Gears ==
-    (=======================)
-*/
+//     (=======================)
+//        == Forestry Gears ==
+//     (=======================)
+//
     recipes.remove(<forestry:gear_copper>);
     recipes.remove(<forestry:gear_bronze>);
 	recipes.remove(<forestry:gear_tin>);
