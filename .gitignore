@@ -3,7 +3,6 @@ logs/
 psi_persistent/
 libraries/
 versions/
-local/
 resourcepacks/
 assets/
 /realms_persistence.json
