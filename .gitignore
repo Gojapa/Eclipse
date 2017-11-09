@@ -48,3 +48,7 @@ config/InvTweaks\.cfg
 config/MouseTweaks\.cfg
 
 config/brandon3055/contributors\.json
+
+config/jei/worldSettings\.cfg
+
+config/AppliedEnergistics2/VersionChecker\.cfg
