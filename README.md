@@ -1,4 +1,8 @@
 # Eclipse
 Eclipse Modpack
 
-Developed by the End Of Days team.
+Developed & maintaned by the End of Days team.
+
+
+
+Read LICENSE.
